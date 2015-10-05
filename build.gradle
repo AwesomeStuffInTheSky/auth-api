@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: 'wrapper'
 apply plugin: 'eclipse'
 
 
@@ -16,4 +17,3 @@ repositories {
 
 dependencies {
 }
-
